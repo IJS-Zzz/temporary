@@ -2,7 +2,7 @@
 
 ### Task 1
 Создать декоратор, который засекает время выполнения обернутой им функции и выводит его в консоль через print.
-Решение: time_decorator.py  
+
 [Решение](time_decorator.py)  
 [Тесты](tests/test_time_decorator.py)  
 
