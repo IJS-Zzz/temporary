@@ -35,3 +35,17 @@
 
 #### Note
 Представленный код тестировался на Python 3.
+
+### Tests
+Запуск тестов
+```
+cd %path_to_dir%
+bash run_tests.sh
+```
+или
+```
+cd %path_to_dir%
+python3 -m unittest discover -v -s ./tests/
+```
+
+:rocket:
