@@ -22,7 +22,7 @@
 * "abba" - да, уже палиндром
 * "bbaa" - да, можно переставить, например, в "abba" или "baab"
 * "bcaaabc" - да, можно переставить, например, в "bcaaacb"
-* "bcbcbc" – нет
+* "bcbcbc" – нет  
 [Решение](palindrome.py)  
 [Тесты](tests/test_palindrome.py)  
 
