@@ -33,7 +33,7 @@
 [Решение](badcode_refactored.py)  
 [Тесты](tests/test_badcode_refactored.py)  
 
-#### Note
+### Note
 Представленный код тестировался на Python 3.
 
 ### Tests
