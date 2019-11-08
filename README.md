@@ -48,7 +48,7 @@ bash run_tests.sh
 или
 ```
 cd %path_to_dir%
-python3 -m unittest discover -v -s ./tests/
+python -m unittest discover -v -s ./tests/
 ```
 
 :rocket:
